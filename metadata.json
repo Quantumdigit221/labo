@@ -1,0 +1,6 @@
+{
+  "name": "ExtremeLab Next",
+  "description": "Système complet de gestion de laboratoire d'analyses médicales (LIS/LIMS) : patients, examens, demandes, prélèvements, résultats, validation biologique, facturation FCFA, rapports sécurisés QR code et notifications WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
